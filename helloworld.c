@@ -1,5 +1,5 @@
 viod main(){
-print("helloworld!");
+printf("helloworld!");
 
 
 }
